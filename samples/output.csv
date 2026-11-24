@@ -1,0 +1,9 @@
+batch_id,stage,product,grade,units
+B11,2026-03,pump,A,100
+B12,2026-03,valve,A,80
+B13,2026-03,pump,A,50
+B21,2026-08,pump,B,120
+B22,2026-08,valve,A,40
+B23,2026-08,actuator,N,25
+B31,2026-09,pump,B,90
+B32,2026-09,valve,A,65

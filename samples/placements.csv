@@ -1,0 +1,6 @@
+credit_id,team,site,period,hours,from_affected,provider,received
+C1,T01,LineK,2026-08,46,yes,plant,2026-08-27
+C2,T02,LineR,2026-08,34,yes,plant,2026-08-30
+C3,T03,LineK,2026-08,18,no,plant,2026-08-27
+C4,T02,LineR,2026-09,32,yes,plant,2026-09-26
+C5,T02,LineR,2026-09,32,yes,subcontract,2026-10-04

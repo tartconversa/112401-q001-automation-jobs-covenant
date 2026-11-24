@@ -1,0 +1,4 @@
+tranche,period,required_hours,displacement_share,amount,credits,state,recorded
+G1,2026-08,71,0.5,50000,C1|C2,paid,2026-09-05
+G2,2026-09,58,0.6,45000,C2|C4,review,2026-10-01
+G3,2026-09,31,0.5,25000,C4,review,2026-10-02

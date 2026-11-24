@@ -1,0 +1,13 @@
+hour_id,batch_id,step,team,provider,hours,joint_group
+H11,B11,assemble,T01,plant,160,
+H12,B12,polish,T02,plant,96,
+H13,B13,assemble,T01,plant,85,
+H14,B11,pack,T03,borrowed,44,J1
+H15,B12,pack,T03,borrowed,44,J1
+H21,B21,cell,T01,plant,79,
+H22,B22,finish,T02,subcontract,52,
+H23,B23,cell,T01,plant,,
+H24,B21,pack,T03,plant,57,J2
+H25,B22,pack,T03,plant,57,J2
+H31,B31,cell,T01,plant,71,
+H32,B32,finish,T02,subcontract,73,
